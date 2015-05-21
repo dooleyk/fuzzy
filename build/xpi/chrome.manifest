@@ -1,0 +1,6 @@
+content myfuzzy language content/
+skin myfuzzy language classic/1.0 skin/
+locale myfuzzy language en-US locale/en-US/
+
+manifest components/component.manifest
+category udl-lexers my_fuzzy_language@fuzzy.org 1

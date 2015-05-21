@@ -1,0 +1,4 @@
+component {ece2f47d-f9f7-4d3d-8c9e-8ebc02311abf} koFuzzy_UDL_Language.py
+category komodo-language Fuzzy @activestate.com/koLanguage?language=Fuzzy;1
+contract @activestate.com/koLanguage?language=Fuzzy;1 {ece2f47d-f9f7-4d3d-8c9e-8ebc02311abf}
+category komodo-language-info Fuzzy %7B%22name%22%3A%20%22Fuzzy%22%2C%20%22defaultExtension%22%3A%20%22.fzy%22%2C%20%22primary%22%3A%201%7D
