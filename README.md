@@ -6,7 +6,7 @@ Project -> New Project from Template and select the Create Komodo Language
  
 Did not check 'code intelligence facilities' wizard option.
 
-Get langinfo error popping up repeatedly in 9.0 when editing a fuzzy (.fzy) file, though color coding and Edit Preferences Language stuff works.
+Get langinfo error popping up repeatedly in 9.0 when editing a fuzzy (.fzy) file, though color coding and Edit Preferences Language stuff works. (This same error also occurs in 8.0 though it is less noticable because it only shows up in the log, and not in popup boxes.)
 
 [2015-05-22 07:49:08,524] [ERROR] codeintel.langintel: error getting langinfo for 'Fuzzy'
 Traceback (most recent call last):
