@@ -16,3 +16,5 @@ Traceback (most recent call last):
     raise LangInfoError("no info on %r komodo lang" % komodo_lang)
 LangInfoError: no info on u'Fuzzy' komodo lang
 
+Built and tested using Komodo IDE, version 9.0.1, build 87208, platform linux-x86_64.
+Built on Thu Apr 16 12:42:33 2015.
